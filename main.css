@@ -1,0 +1,36 @@
+body {
+	color: #ccc;
+	background-color: #1E1D1F;
+	font-family: 'Molengo', sans-serif;
+	text-align: center;
+}
+
+.banner {
+	color: #0CAD1F;
+	text-shadow: rgb(199, 199, 199) .5px 1px 1px;
+	border: solid 1px rgb(119, 119, 119);
+	margin: 0 auto;
+	background-color: black;
+	max-width: 704px;
+}
+
+.message-box {
+	border: solid 1px rgb(119, 119, 119);
+	margin: 0 auto;
+	max-width: 704px;
+
+}
+
+.text-box {
+	margin: 2em 0;
+}
+
+
+
+.row {
+	/*margin-bottom: 20px;*/
+	border-bottom: 1px solid #960B12;
+	background-color: black;
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
